@@ -1,6 +1,6 @@
 # Which Attention Heads Matter for In-Context Learning?
 
-Code and data supporting the paper [Which Attention Heads Matter for In-Context Learning?]([https://arxiv.org/abs/2406.04024](https://arxiv.org/abs/2502.14010)).
+Code and data supporting the paper [Which Attention Heads Matter for In-Context Learning?](https://arxiv.org/abs/2502.14010).
 
 I'm currently working on cleaning up the code for presentation. If you would like access to code and/or data earlier, please email me at kayoyin@berkeley.edu !
 
