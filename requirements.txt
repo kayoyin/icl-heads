@@ -1,0 +1,13 @@
+torch>=2.0
+transformers>=4.40
+transformer_lens>=1.14
+baukit @ git+https://github.com/davidbau/baukit
+torchtyping
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+scipy
+jupyter
