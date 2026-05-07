@@ -125,11 +125,14 @@ figures shown in the paper.
 ## Citation
 
 ```bibtex
-@article{yin2025which,
-  title  = {Which Attention Heads Matter for In-Context Learning?},
-  author = {Yin, Kayo and Steinhardt, Jacob},
-  journal = {arXiv preprint arXiv:2502.14010},
-  year   = {2025}
+@inproceedings{yin2025which,
+  title     = {Which Attention Heads Matter for In-Context Learning?},
+  author    = {Yin, Kayo and Steinhardt, Jacob},
+  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
+  series    = {Proceedings of Machine Learning Research},
+  publisher = {PMLR},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=C7XmEByCFv}
 }
 ```
 
